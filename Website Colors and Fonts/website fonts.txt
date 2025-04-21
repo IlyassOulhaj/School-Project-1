@@ -1,0 +1,6 @@
+fonts:
+  - name: "Playfair Display"
+    usage: "Headings, product names, logo"
+
+  - name: "Inter"
+    usage: "Body text, menus, product descriptions"

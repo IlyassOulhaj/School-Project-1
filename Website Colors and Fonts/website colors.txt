@@ -1,0 +1,6 @@
+Soft Cream:     #FAF5EF   → Main background color (instead of plain white)
+Rose Blush:     #F8D3D3   → Section backgrounds, hero banners, highlights
+Deep Plum:      #4B2E39   → Titles, buttons, navigation bar, icons
+Muted Gold:     #C8A165   → Call-to-action buttons, borders, small details
+Charcoal Gray:  #333333   → Body text, menu text, product descriptions
+White:          #FFFFFF   → Product cards, clean content areas, contrast blocks
